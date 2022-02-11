@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BE9F146C27B413CD00219E89 /* 2475_검증수.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE9F146B27B413CD00219E89 /* 2475_검증수.cpp */; };
+		BE9F146F27B5E6D100219E89 /* 1330_두수비교하기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE9F146E27B5E6D100219E89 /* 1330_두수비교하기.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		BE9F146B27B413CD00219E89 /* 2475_검증수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2475_검증수.cpp"; sourceTree = "<group>"; };
+		BE9F146E27B5E6D100219E89 /* 1330_두수비교하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1330_두수비교하기.cpp"; sourceTree = "<group>"; };
 		BECB45A427B2BF5A00095197 /* 1008A나누기B.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1008A나누기B.cpp"; sourceTree = "<group>"; usesTabs = 0; };
 		BECB8E6127B22E68008BF408 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		BECB8E6427B22E68008BF408 /* 1000_A+B.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1000_A+B.cpp"; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				BECB8E6E27B230D6008BF408 /* 1001_A-B.cpp */,
 				BECB45A427B2BF5A00095197 /* 1008A나누기B.cpp */,
 				BE9F146B27B413CD00219E89 /* 2475_검증수.cpp */,
+				BE9F146E27B5E6D100219E89 /* 1330_두수비교하기.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE9F146C27B413CD00219E89 /* 2475_검증수.cpp in Sources */,
+				BE9F146F27B5E6D100219E89 /* 1330_두수비교하기.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
