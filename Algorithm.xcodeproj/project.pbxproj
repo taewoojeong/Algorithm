@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BED6BBF127C0D53A006BC1C8 /* 2741_N찍기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BED6BBF027C0D53A006BC1C8 /* 2741_N찍기.cpp */; };
+		BECE01FE27C1F605006ED405 /* 2472_기찍N.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BECE01FD27C1F605006ED405 /* 2472_기찍N.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +32,7 @@
 		BECB8E6427B22E68008BF408 /* 1000_A+B.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1000_A+B.cpp"; sourceTree = "<group>"; };
 		BECB8E6E27B230D6008BF408 /* 1001_A-B.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1001_A-B.cpp"; sourceTree = "<group>"; };
 		BECB8E7327B23511008BF408 /* 2557_HelloWorld.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2557_HelloWorld.cpp; sourceTree = "<group>"; };
+		BECE01FD27C1F605006ED405 /* 2472_기찍N.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2472_기찍N.cpp"; sourceTree = "<group>"; };
 		BED5F6F927BA925500359F57 /* 10039_평균점수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10039_평균점수.cpp"; sourceTree = "<group>"; };
 		BED5F6FB27BBA6ED00359F57 /* 2558_A+B-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2558_A+B-2.cpp"; sourceTree = "<group>"; };
 		BED6BBEE27BF2228006BC1C8 /* 2753_윤년.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2753_윤년.cpp"; sourceTree = "<group>"; };
@@ -82,6 +83,7 @@
 				BEE2CC9627BE292F00C3F962 /* 2752_세수정렬.cpp */,
 				BED6BBEE27BF2228006BC1C8 /* 2753_윤년.cpp */,
 				BED6BBF027C0D53A006BC1C8 /* 2741_N찍기.cpp */,
+				BECE01FD27C1F605006ED405 /* 2472_기찍N.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -143,7 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BED6BBF127C0D53A006BC1C8 /* 2741_N찍기.cpp in Sources */,
+				BECE01FE27C1F605006ED405 /* 2472_기찍N.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
