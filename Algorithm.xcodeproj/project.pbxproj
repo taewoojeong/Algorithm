@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BED5300927C7612B0013D570 /* 10171_고양이.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BED5300827C7612B0013D570 /* 10171_고양이.cpp */; };
+		BED5300B27C761C80013D570 /* 10172_개.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BED5300A27C761C80013D570 /* 10172_개.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -44,6 +44,7 @@
 		BED5300427C760360013D570 /* 8370_Plane.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 8370_Plane.cpp; sourceTree = "<group>"; };
 		BED5300627C760D20013D570 /* 9653_스타워즈로고.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9653_스타워즈로고.cpp"; sourceTree = "<group>"; };
 		BED5300827C7612B0013D570 /* 10171_고양이.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10171_고양이.cpp"; sourceTree = "<group>"; };
+		BED5300A27C761C80013D570 /* 10172_개.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10172_개.cpp"; sourceTree = "<group>"; };
 		BED5F6F927BA925500359F57 /* 10039_평균점수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10039_평균점수.cpp"; sourceTree = "<group>"; };
 		BED5F6FB27BBA6ED00359F57 /* 2558_A+B-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2558_A+B-2.cpp"; sourceTree = "<group>"; };
 		BED6BBEE27BF2228006BC1C8 /* 2753_윤년.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2753_윤년.cpp"; sourceTree = "<group>"; };
@@ -114,6 +115,7 @@
 				BED5300427C760360013D570 /* 8370_Plane.cpp */,
 				BED5300627C760D20013D570 /* 9653_스타워즈로고.cpp */,
 				BED5300827C7612B0013D570 /* 10171_고양이.cpp */,
+				BED5300A27C761C80013D570 /* 10172_개.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -175,7 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BED5300927C7612B0013D570 /* 10171_고양이.cpp in Sources */,
+				BED5300B27C761C80013D570 /* 10172_개.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
