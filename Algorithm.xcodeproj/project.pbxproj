@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BED5300527C760360013D570 /* 8370_Plane.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BED5300427C760360013D570 /* 8370_Plane.cpp */; };
+		BED5300727C760D20013D570 /* 9653_스타워즈로고.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BED5300627C760D20013D570 /* 9653_스타워즈로고.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +42,7 @@
 		BECE020327C29285006ED405 /* 5337_웰컴.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5337_웰컴.cpp"; sourceTree = "<group>"; };
 		BECE020527C29368006ED405 /* 1550_16진수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1550_16진수.cpp"; sourceTree = "<group>"; };
 		BED5300427C760360013D570 /* 8370_Plane.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 8370_Plane.cpp; sourceTree = "<group>"; };
+		BED5300627C760D20013D570 /* 9653_스타워즈로고.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "9653_스타워즈로고.cpp"; sourceTree = "<group>"; };
 		BED5F6F927BA925500359F57 /* 10039_평균점수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10039_평균점수.cpp"; sourceTree = "<group>"; };
 		BED5F6FB27BBA6ED00359F57 /* 2558_A+B-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2558_A+B-2.cpp"; sourceTree = "<group>"; };
 		BED6BBEE27BF2228006BC1C8 /* 2753_윤년.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2753_윤년.cpp"; sourceTree = "<group>"; };
@@ -110,6 +111,7 @@
 				BEDE698927C5D5B900357B91 /* 5554_심부름가는길.cpp */,
 				BEDE698B27C5D62000357B91 /* 6749_NextInLine.cpp */,
 				BED5300427C760360013D570 /* 8370_Plane.cpp */,
+				BED5300627C760D20013D570 /* 9653_스타워즈로고.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -171,7 +173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BED5300527C760360013D570 /* 8370_Plane.cpp in Sources */,
+				BED5300727C760D20013D570 /* 9653_스타워즈로고.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
