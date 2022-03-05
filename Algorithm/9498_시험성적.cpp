@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+
+int main(int argc, const char * argv[]) {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL); cout.tie(NULL);
+    int num;
+    cin >> num;
+    switch(num / 10){
+        case 10: case 9:
+            cout << 'A';
+            break;
+        case 8:
+            cout << 'B';
+            break;
+        case 7:
+            cout << 'C';
+            break;
+        case 6:
+            cout << 'D';
+            break;
+        default:
+            cout << 'F';
+    }
+}
