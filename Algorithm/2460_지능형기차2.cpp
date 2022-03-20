@@ -14,5 +14,5 @@ int main(int argc, char *argv[]) {
         v[i] = B - A + v[i - 1];
     }
     sort(v.begin(), v.end());
-    cout << v[10] << "\n";
+    cout << v[10] << "\n"; 
 }
