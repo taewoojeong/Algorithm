@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		BEB0D6A427EA021E001C000A /* 10179_쿠폰.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEB0D6A327EA021E001C000A /* 10179_쿠폰.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		BECB8E5F27B22E68008BF408 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -47,6 +43,7 @@
 		BE9FFDA527B945E000CB024D /* 8393_합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8393_합.cpp"; sourceTree = "<group>"; };
 		BEB0D6A127EA01DD001C000A /* 10103_주사위게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10103_주사위게임.cpp"; sourceTree = "<group>"; };
 		BEB0D6A327EA021E001C000A /* 10179_쿠폰.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10179_쿠폰.cpp"; sourceTree = "<group>"; };
+		BEB0D6A527EA0298001C000A /* 10250_ACM호텔.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10250_ACM호텔.cpp"; sourceTree = "<group>"; };
 		BEB87CE227DF817F00179BFC /* 2445_별찍기8.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2445_별찍기8.cpp"; sourceTree = "<group>"; };
 		BEB87CE527DF823300179BFC /* 2446_별찍기9.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2446_별찍기9.cpp"; sourceTree = "<group>"; };
 		BEBE9BED27E49FD0001CF871 /* 3034_앵그리창영.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3034_앵그리창영.cpp"; sourceTree = "<group>"; };
@@ -312,6 +309,7 @@
 				BEE45BB427E8A57E008AC678 /* 2511_카드놀이.cpp */,
 				BEB0D6A127EA01DD001C000A /* 10103_주사위게임.cpp */,
 				BEB0D6A327EA021E001C000A /* 10179_쿠폰.cpp */,
+				BEB0D6A527EA0298001C000A /* 10250_ACM호텔.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -373,7 +371,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEB0D6A427EA021E001C000A /* 10179_쿠폰.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
