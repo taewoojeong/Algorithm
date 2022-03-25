@@ -26,6 +26,7 @@
 		BE3073CA27EDCA1A0071A7A3 /* 10950_A+B3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10950_A+B3.cpp"; sourceTree = "<group>"; };
 		BE3073CC27EDCB9B0071A7A3 /* 10951_A+B4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10951_A+B4.cpp"; sourceTree = "<group>"; };
 		BE3073CE27EDCC0A0071A7A3 /* 10952_A+B5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10952_A+B5.cpp"; sourceTree = "<group>"; };
+		BE3073D027EDCCE30071A7A3 /* 10990_별찍기15.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10990_별찍기15.cpp"; sourceTree = "<group>"; };
 		BE4BEFFE27B6BB6800E8E892 /* 2588_곱셈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2588_곱셈.cpp"; sourceTree = "<group>"; };
 		BE51AAAE27DF859400A59714 /* 2490_윷놀이.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2490_윷놀이.cpp"; sourceTree = "<group>"; };
 		BE51AAB027DF85C700A59714 /* 2522_별찍기12.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2522_별찍기12.cpp"; sourceTree = "<group>"; };
@@ -334,6 +335,7 @@
 				BE3073CA27EDCA1A0071A7A3 /* 10950_A+B3.cpp */,
 				BE3073CC27EDCB9B0071A7A3 /* 10951_A+B4.cpp */,
 				BE3073CE27EDCC0A0071A7A3 /* 10952_A+B5.cpp */,
+				BE3073D027EDCCE30071A7A3 /* 10990_별찍기15.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
