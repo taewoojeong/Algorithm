@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		BE3073D827EF4EA10071A7A3 /* 10992_별찍기17.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE3073D727EF4EA10071A7A3 /* 10992_별찍기17.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		BECB8E5F27B22E68008BF408 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -33,6 +29,7 @@
 		BE3073D027EDCCE30071A7A3 /* 10990_별찍기15.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10990_별찍기15.cpp"; sourceTree = "<group>"; };
 		BE3073D527EF4E640071A7A3 /* 10991_별찍기16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10991_별찍기16.cpp"; sourceTree = "<group>"; };
 		BE3073D727EF4EA10071A7A3 /* 10992_별찍기17.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10992_별찍기17.cpp"; sourceTree = "<group>"; };
+		BE3073D927EF4FF80071A7A3 /* 11021_A+B7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11021_A+B7.cpp"; sourceTree = "<group>"; };
 		BE4BEFFE27B6BB6800E8E892 /* 2588_곱셈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2588_곱셈.cpp"; sourceTree = "<group>"; };
 		BE51AAAE27DF859400A59714 /* 2490_윷놀이.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2490_윷놀이.cpp"; sourceTree = "<group>"; };
 		BE51AAB027DF85C700A59714 /* 2522_별찍기12.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2522_별찍기12.cpp"; sourceTree = "<group>"; };
@@ -344,6 +341,7 @@
 				BED9F8BA27EC3F6A00E92163 /* 23972_악마의제안.cpp */,
 				BE3073D527EF4E640071A7A3 /* 10991_별찍기16.cpp */,
 				BE3073D727EF4EA10071A7A3 /* 10992_별찍기17.cpp */,
+				BE3073D927EF4FF80071A7A3 /* 11021_A+B7.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -405,7 +403,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE3073D827EF4EA10071A7A3 /* 10992_별찍기17.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
