@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BE16646F27F45FE000CE8023 /* 15651_N과M3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE16646E27F45FE000CE8023 /* 15651_N과M3.cpp */; };
+		BE16647127F4608600CE8023 /* 15652_N과M4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE16647027F4608600CE8023 /* 15652_N과M4.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +38,7 @@
 		BE16646A27F45E6200CE8023 /* 15649_N과M1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15649_N과M1.cpp"; sourceTree = "<group>"; };
 		BE16646C27F45F6000CE8023 /* 15650_N과M2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15650_N과M2.cpp"; sourceTree = "<group>"; };
 		BE16646E27F45FE000CE8023 /* 15651_N과M3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15651_N과M3.cpp"; sourceTree = "<group>"; };
+		BE16647027F4608600CE8023 /* 15652_N과M4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15652_N과M4.cpp"; sourceTree = "<group>"; };
 		BE3073CA27EDCA1A0071A7A3 /* 10950_A+B3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10950_A+B3.cpp"; sourceTree = "<group>"; };
 		BE3073CC27EDCB9B0071A7A3 /* 10951_A+B4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10951_A+B4.cpp"; sourceTree = "<group>"; };
 		BE3073CE27EDCC0A0071A7A3 /* 10952_A+B5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10952_A+B5.cpp"; sourceTree = "<group>"; };
@@ -378,6 +379,7 @@
 				BE16646A27F45E6200CE8023 /* 15649_N과M1.cpp */,
 				BE16646C27F45F6000CE8023 /* 15650_N과M2.cpp */,
 				BE16646E27F45FE000CE8023 /* 15651_N과M3.cpp */,
+				BE16647027F4608600CE8023 /* 15652_N과M4.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -439,7 +441,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE16646F27F45FE000CE8023 /* 15651_N과M3.cpp in Sources */,
+				BE16647127F4608600CE8023 /* 15652_N과M4.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
