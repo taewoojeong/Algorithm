@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BEDD4D3F27FAD7F400207439 /* 1010_다리놓기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEDD4D3E27FAD7F400207439 /* 1010_다리놓기.cpp */; };
+		BEDD4D4127FAD98C00207439 /* 1012_유기농배추.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEDD4D4027FAD98C00207439 /* 1012_유기농배추.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -152,6 +153,7 @@
 		BEDD4D3A27FAD77F00207439 /* 1002_터렛.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1002_터렛.cpp"; sourceTree = "<group>"; };
 		BEDD4D3C27FAD7B900207439 /* 1003_피보나치함수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1003_피보나치함수.cpp"; sourceTree = "<group>"; };
 		BEDD4D3E27FAD7F400207439 /* 1010_다리놓기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1010_다리놓기.cpp"; sourceTree = "<group>"; };
+		BEDD4D4027FAD98C00207439 /* 1012_유기농배추.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1012_유기농배추.cpp"; sourceTree = "<group>"; };
 		BEDE698527C5D38B00357B91 /* 5339_콜센터.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5339_콜센터.cpp"; sourceTree = "<group>"; };
 		BEDE698727C5D53C00357B91 /* 5522_카드게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5522_카드게임.cpp"; sourceTree = "<group>"; };
 		BEDE698927C5D5B900357B91 /* 5554_심부름가는길.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5554_심부름가는길.cpp"; sourceTree = "<group>"; };
@@ -410,6 +412,7 @@
 				BEDD4D3A27FAD77F00207439 /* 1002_터렛.cpp */,
 				BEDD4D3C27FAD7B900207439 /* 1003_피보나치함수.cpp */,
 				BEDD4D3E27FAD7F400207439 /* 1010_다리놓기.cpp */,
+				BEDD4D4027FAD98C00207439 /* 1012_유기농배추.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -471,6 +474,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEDD4D4127FAD98C00207439 /* 1012_유기농배추.cpp in Sources */,
 				BEDD4D3F27FAD7F400207439 /* 1010_다리놓기.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
