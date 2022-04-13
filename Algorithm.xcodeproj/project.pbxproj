@@ -6,13 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		BEE0D71E2805B42500C1AEC2 /* 1738_골목길.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEE0D71D2805B42500C1AEC2 /* 1738_골목길.cpp */; };
-		BEE0D7202805B45900C1AEC2 /* 1743_음식물피하기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEE0D71F2805B45900C1AEC2 /* 1743_음식물피하기.cpp */; };
-		BEE0D7222805B49E00C1AEC2 /* 1753_최단경로.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEE0D7212805B49E00C1AEC2 /* 1753_최단경로.cpp */; };
-		BEE0D7242805B4F400C1AEC2 /* 1759_암호만들기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEE0D7232805B4F400C1AEC2 /* 1759_암호만들기.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		BECB8E5F27B22E68008BF408 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -540,10 +533,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEE0D71E2805B42500C1AEC2 /* 1738_골목길.cpp in Sources */,
-				BEE0D7222805B49E00C1AEC2 /* 1753_최단경로.cpp in Sources */,
-				BEE0D7242805B4F400C1AEC2 /* 1759_암호만들기.cpp in Sources */,
-				BEE0D7202805B45900C1AEC2 /* 1743_음식물피하기.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
