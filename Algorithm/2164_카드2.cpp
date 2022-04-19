@@ -12,7 +12,7 @@ int main(int argc, char *argv[]){
         q.push(i);
     }
     while(q.size() > 1){
-        q.pop();
+        q.pop(); 
         q.push(q.front());
         q.pop();
     }
