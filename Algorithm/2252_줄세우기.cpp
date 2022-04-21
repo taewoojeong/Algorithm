@@ -1,41 +1,44 @@
 #include <iostream>
-#include <cmath>
-#include <string>
+#include <vector>
+#include <queue>
 
 using namespace std;
-int N, M;
-int time_num[100005];
 
-int binary_search(int left, int right){
-    while(left <= right){
-        int blulay = 1, sum = 0;
-        int mid = (left + right) / 2;
-        for(int i = 0; i < N; i++){
-            if(time_num[i] + sum > mid){
-                blulay++;
-                sum = 0;
-            }
-            sum += time_num[i];
+int N, M, inDegree[32001], res[32001];
+vector <int> a[32001];
+
+void topologySort(){
+    queue <int> q;
+    for(int i = 1; i <= N; i++){
+        if(inDegree[i] == 0){
+            q.push(i);
         }
-        
-        if(blulay <= M)
-            right = mid - 1;
-        else
-            left = mid + 1;
     }
-    return left;
+    for(int i = 1; i <= N; i++){
+        int x = q.front();
+        q.pop();
+        res[i] = x;
+        for(int j = 0; j < a[x].size(); j++){
+            int y = a[x][j];
+            if(--inDegree[y] == 0) {
+                q.push(y);
+            }
+        }
+    }
+    for(int i = 1; i <= N; i++){
+        cout << res[i] << " ";
+    }
 }
 
-int main(int argc, const char * argv[]){
+int main(int argc, char *argv[]) {
+    ios::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
     cin >> N >> M;
-    int total = 0, max = 0;
-    for(int i = 0; i < N; i++){
-        cin >> time_num[i];
-        total += time_num[i];
-        if(time_num[i] > max){
-            max = time_num[i];
-        }
+    for(int i = 0; i < M; i++){
+        int x, y;
+        cin >> x >> y;
+        a[x].push_back(y);
+        inDegree[y]++;
     }
-    cout << binary_search(max, total);
+    topologySort();
     return 0;
 }
