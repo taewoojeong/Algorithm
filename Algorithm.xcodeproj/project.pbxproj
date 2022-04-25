@@ -169,6 +169,7 @@
 		BED6E73F27F707490074522A /* 15665_N과M11.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15665_N과M11.cpp"; sourceTree = "<group>"; };
 		BED6E74127F7096D0074522A /* 15666_N과M12.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15666_N과M12.cpp"; sourceTree = "<group>"; };
 		BED807EF2816868600164871 /* 20114_미아노트.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "20114_미아노트.cpp"; sourceTree = "<group>"; };
+		BED807F1281686E200164871 /* 1173_운동.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1173_운동.cpp"; sourceTree = "<group>"; };
 		BED8666827F5CC2600AD906B /* 15654_N과M5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15654_N과M5.cpp"; sourceTree = "<group>"; };
 		BED8666A27F5CE7D00AD906B /* 15655_N과M6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15655_N과M6.cpp"; sourceTree = "<group>"; };
 		BED8666C27F5CF7A00AD906B /* 15656_N과M7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15656_N과M7.cpp"; sourceTree = "<group>"; };
@@ -578,6 +579,7 @@
 				BED3CD7C2815175E0048D6E4 /* 2573_빙산.cpp */,
 				BED3CD80281517E20048D6E4 /* 2579_계단오르기.cpp */,
 				BED807EF2816868600164871 /* 20114_미아노트.cpp */,
+				BED807F1281686E200164871 /* 1173_운동.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
