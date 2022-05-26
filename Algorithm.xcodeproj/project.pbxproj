@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BEDCDAFB283E760000DEDB79 /* 2798_블랙잭.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEDCDAFA283E760000DEDB79 /* 2798_블랙잭.cpp */; };
-		BEE1FF64283D06BC0082E85B /* 2792_보석상자.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEE1FF63283D06BC0082E85B /* 2792_보석상자.cpp */; };
+		BE1A4D83283F5426004BF09E /* 2563_색종이.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE1A4D82283F5426004BF09E /* 2563_색종이.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +39,7 @@
 		BE16646C27F45F6000CE8023 /* 15650_N과M2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15650_N과M2.cpp"; sourceTree = "<group>"; };
 		BE16646E27F45FE000CE8023 /* 15651_N과M3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15651_N과M3.cpp"; sourceTree = "<group>"; };
 		BE16647027F4608600CE8023 /* 15652_N과M4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15652_N과M4.cpp"; sourceTree = "<group>"; };
+		BE1A4D82283F5426004BF09E /* 2563_색종이.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2563_색종이.cpp"; sourceTree = "<group>"; };
 		BE20D13D27FC2FBD00FC8F96 /* 1018_체스판다시칠하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1018_체스판다시칠하기.cpp"; sourceTree = "<group>"; };
 		BE20D13F27FC32A400FC8F96 /* 1021_회전하는큐.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1021_회전하는큐.cpp"; sourceTree = "<group>"; };
 		BE20D14127FC334C00FC8F96 /* 1026_보물.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1026_보물.cpp"; sourceTree = "<group>"; };
@@ -645,6 +645,7 @@
 				BEEC1787283BAF8C000B304B /* 2776_암기왕.cpp */,
 				BEE1FF63283D06BC0082E85B /* 2792_보석상자.cpp */,
 				BEDCDAFA283E760000DEDB79 /* 2798_블랙잭.cpp */,
+				BE1A4D82283F5426004BF09E /* 2563_색종이.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -706,8 +707,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEDCDAFB283E760000DEDB79 /* 2798_블랙잭.cpp in Sources */,
-				BEE1FF64283D06BC0082E85B /* 2792_보석상자.cpp in Sources */,
+				BE1A4D83283F5426004BF09E /* 2563_색종이.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
