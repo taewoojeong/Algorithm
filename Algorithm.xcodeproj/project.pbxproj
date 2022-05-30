@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		BE1A4D83283F5426004BF09E /* 2563_색종이.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE1A4D82283F5426004BF09E /* 2563_색종이.cpp */; };
-		BE5247162843AF520081769D /* 2839_설탕배달.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE5247152843AF520081769D /* 2839_설탕배달.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +49,7 @@
 		BE20D14827FDD04200FC8F96 /* 1058_친구.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1058_친구.cpp"; sourceTree = "<group>"; };
 		BE20D14A27FDD08E00FC8F96 /* 1076_저항.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1076_저항.cpp"; sourceTree = "<group>"; };
 		BE20D14C27FDD0E000FC8F96 /* 1158_요세푸스문제.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1158_요세푸스문제.cpp"; sourceTree = "<group>"; };
+		BE2856982844A0B900992688 /* 2841_외계인의기타연주.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2841_외계인의기타연주.cpp"; sourceTree = "<group>"; };
 		BE3073CA27EDCA1A0071A7A3 /* 10950_A+B3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10950_A+B3.cpp"; sourceTree = "<group>"; };
 		BE3073CC27EDCB9B0071A7A3 /* 10951_A+B4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10951_A+B4.cpp"; sourceTree = "<group>"; };
 		BE3073CE27EDCC0A0071A7A3 /* 10952_A+B5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10952_A+B5.cpp"; sourceTree = "<group>"; };
@@ -653,6 +653,7 @@
 				BE1A4D8428410058004BF09E /* 2805_나무자르기.cpp */,
 				BE52471328425F5F0081769D /* 2822_점수계산.cpp */,
 				BE5247152843AF520081769D /* 2839_설탕배달.cpp */,
+				BE2856982844A0B900992688 /* 2841_외계인의기타연주.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -714,7 +715,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE5247162843AF520081769D /* 2839_설탕배달.cpp in Sources */,
 				BE1A4D83283F5426004BF09E /* 2563_색종이.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
