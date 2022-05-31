@@ -226,6 +226,7 @@
 		BEDD4D3E27FAD7F400207439 /* 1010_다리놓기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1010_다리놓기.cpp"; sourceTree = "<group>"; };
 		BEDD4D4027FAD98C00207439 /* 1012_유기농배추.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1012_유기농배추.cpp"; sourceTree = "<group>"; };
 		BEDD8BFB2839187C0092EB08 /* 2751_수정렬하기2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2751_수정렬하기2.cpp"; sourceTree = "<group>"; };
+		BEDDD6AD2846557900238A4E /* 2846_오르막길.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2846_오르막길.cpp"; sourceTree = "<group>"; };
 		BEDE698527C5D38B00357B91 /* 5339_콜센터.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5339_콜센터.cpp"; sourceTree = "<group>"; };
 		BEDE698727C5D53C00357B91 /* 5522_카드게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5522_카드게임.cpp"; sourceTree = "<group>"; };
 		BEDE698927C5D5B900357B91 /* 5554_심부름가는길.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5554_심부름가는길.cpp"; sourceTree = "<group>"; };
@@ -654,6 +655,7 @@
 				BE52471328425F5F0081769D /* 2822_점수계산.cpp */,
 				BE5247152843AF520081769D /* 2839_설탕배달.cpp */,
 				BE2856982844A0B900992688 /* 2841_외계인의기타연주.cpp */,
+				BEDDD6AD2846557900238A4E /* 2846_오르막길.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
