@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BE710A19287C53A300BE0C01 /* 3052_나머지.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE710A18287C53A300BE0C01 /* 3052_나머지.cpp */; };
+		BE710A1B287D2BD700BE0C01 /* 3053_택시기하학.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE710A1A287D2BD700BE0C01 /* 3053_택시기하학.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -99,6 +99,7 @@
 		BE6AD0CF282D31E900C6253C /* 2660_회장뽑기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2660_회장뽑기.cpp"; sourceTree = "<group>"; };
 		BE710A16287AFDDA00BE0C01 /* 3047_ABC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3047_ABC.cpp; sourceTree = "<group>"; };
 		BE710A18287C53A300BE0C01 /* 3052_나머지.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3052_나머지.cpp"; sourceTree = "<group>"; };
+		BE710A1A287D2BD700BE0C01 /* 3053_택시기하학.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3053_택시기하학.cpp"; sourceTree = "<group>"; };
 		BE76A6FE27F82D6400E07DA2 /* 1011_FlyMeToTheAlphaCentauri.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1011_FlyMeToTheAlphaCentauri.cpp; sourceTree = "<group>"; };
 		BE76A70027F82DCF00E07DA2 /* 1065_한수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1065_한수.cpp"; sourceTree = "<group>"; };
 		BE76A70227F82E6000E07DA2 /* 1181_단어정렬.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1181_단어정렬.cpp"; sourceTree = "<group>"; };
@@ -708,6 +709,7 @@
 				BE55E4AA287714F600957066 /* 3036_링.cpp */,
 				BE710A16287AFDDA00BE0C01 /* 3047_ABC.cpp */,
 				BE710A18287C53A300BE0C01 /* 3052_나머지.cpp */,
+				BE710A1A287D2BD700BE0C01 /* 3053_택시기하학.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -769,7 +771,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE710A19287C53A300BE0C01 /* 3052_나머지.cpp in Sources */,
+				BE710A1B287D2BD700BE0C01 /* 3053_택시기하학.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
