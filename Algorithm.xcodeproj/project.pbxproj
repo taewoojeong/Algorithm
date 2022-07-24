@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		BE710A27288C403E00BE0C01 /* 3447_버그왕.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE710A26288C403E00BE0C01 /* 3447_버그왕.cpp */; };
 		BE710A29288C449000BE0C01 /* 3460_이진수.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BE710A28288C449000BE0C01 /* 3460_이진수.cpp */; };
+		BEDFFFD9288D977A00887859 /* 3568_iSharp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEDFFFD8288D977A00887859 /* 3568_iSharp.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -267,6 +268,7 @@
 		BEDEDBB127D4F13A00C6F58A /* 10707_수도요금.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10707_수도요금.cpp"; sourceTree = "<group>"; };
 		BEDEDBB327D4F1A100C6F58A /* 10768_특별한날.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10768_특별한날.cpp"; sourceTree = "<group>"; };
 		BEDEDBB527D4F31D00C6F58A /* 10797_10부제.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10797_10부제.cpp"; sourceTree = "<group>"; };
+		BEDFFFD8288D977A00887859 /* 3568_iSharp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3568_iSharp.cpp; sourceTree = "<group>"; };
 		BEE0A2612849CCC2007171A4 /* 1145_적어도대부분의배수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1145_적어도대부분의배수.cpp"; sourceTree = "<group>"; };
 		BEE0D7052801D17200C1AEC2 /* 1504_특정한최단경로.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1504_특정한최단경로.cpp"; sourceTree = "<group>"; };
 		BEE0D7072801D1B600C1AEC2 /* 1507_궁금한민호.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1507_궁금한민호.cpp"; sourceTree = "<group>"; };
@@ -725,6 +727,7 @@
 				BE710A242888552100BE0C01 /* 3273_두수의합.cpp */,
 				BE710A26288C403E00BE0C01 /* 3447_버그왕.cpp */,
 				BE710A28288C449000BE0C01 /* 3460_이진수.cpp */,
+				BEDFFFD8288D977A00887859 /* 3568_iSharp.cpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -787,6 +790,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE710A29288C449000BE0C01 /* 3460_이진수.cpp in Sources */,
+				BEDFFFD9288D977A00887859 /* 3568_iSharp.cpp in Sources */,
 				BE710A27288C403E00BE0C01 /* 3447_버그왕.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
